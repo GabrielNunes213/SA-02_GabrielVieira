@@ -1,0 +1,370 @@
+* {
+    margin: 0%;
+}
+
+.partecima {
+    background-color: blue;
+    width: 100%;
+    height: 50px;
+}
+
+#partemeio {
+    background-color: #DCDCDC;
+    width: 100%;
+    height: 120px;
+}
+
+#ul1 {
+    list-style: none;
+    display: flex;
+    padding-top: 8px;
+    justify-content: center;
+    
+}
+
+#bot1 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding-right: 30px;
+    font-size: 25px;
+}
+
+#bot2 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding-right: 30px;
+    font-size: 25px;
+}
+
+#bot3 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding-right: 30px;
+    font-size: 25px;
+}
+
+#txtmeio {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+
+.car1 {
+    background-color: #DCDCDC;
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+    margin-right: 10px;
+    margin-top: 10px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.car2 {
+    background-color: #DCDCDC;
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+    margin-top: 10px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.car3 {
+    background-color: #DCDCDC;
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+    margin-right: 10px;
+    margin-top: 20px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.car4 {
+    background-color: #DCDCDC;
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carrosfila1 {
+    display: flex;
+}
+
+.carrosfila2 {
+    display: flex;
+}
+
+#ulbot1car {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+#bot1car {
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#ulbot2car {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+#bot2car {
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#ulbot3car {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+#bot3car {
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#ulbot4car {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+#bot4car {
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#img1 {
+    width: 400px;
+    height: 230px;
+}
+
+#img2 {
+    width: 380px;
+    height: 230px;
+}
+
+#img3 {
+    width: 380px;
+    height: 240px;
+    
+}
+
+#img4 {
+    width: 400px;
+    height: 250px;
+}
+
+.Sobre {
+    background-color: #DCDCDC;
+    border-radius: 10px;
+    width: 500px;
+    height: 200px;
+    margin-top: 70px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rodape {
+    background-color: blue;
+    width: 100%;
+    height: 150px;
+    margin-top: 40px;
+}
+
+#txtrodape {
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 55px;
+}
+
+.car1chevrolet {
+    background-color: #DCDCDC;
+    border-radius: 10px;
+    width: 500px;
+    height: 570px;
+    margin-right: 10px;
+    margin-top: 10px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#chevrolet {
+    width: 500px;
+    height: 280px;
+}
+
+#nomecar,#desc,#preco {
+    text-align: center;
+}
+
+
+.car1fiat {
+    background-color: #DCDCDC;
+    border-radius: 10px;
+    width: 500px;
+    height: 570px;
+    margin-right: 10px;
+    margin-top: 10px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#fiat {
+    padding-top: 15px;
+    width: 500px;
+    height: 280px;
+}
+
+
+.car1honda {
+    background-color: #DCDCDC;
+    border-radius: 10px;
+    width: 500px;
+    height: 570px;
+    margin-right: 10px;
+    margin-top: 10px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#honda {
+    width: 500px;
+    height: 280px;
+}
+
+.car1kia {
+    background-color: #DCDCDC;
+    border-radius: 10px;
+    width: 500px;
+    height: 570px;
+    margin-right: 10px;
+    margin-top: 10px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#kia {
+    width: 500px;
+    height: 280px;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 740px) {
+    .carrosfila1 {
+        display: block;
+    }
+
+    .carrosfila2 {
+        display: block;
+    }
+
+    .Sobre {
+        background-color: #DCDCDC;
+        border-radius: 10px;
+        width: 410px;
+        height: 225px;
+        margin-top: 70px;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .car1chevrolet {
+        background-color: #DCDCDC;
+        border-radius: 10px;
+        width: 400px;
+        height: 550px;
+        margin-right: 10px;
+        margin-top: 10px;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #chevrolet {
+        width: 400px;
+        height: 230px;
+    }
+
+    .car1fiat {
+        background-color: #DCDCDC;
+        border-radius: 10px;
+        width: 400px;
+        height: 550px;
+        margin-right: 10px;
+        margin-top: 10px;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #fiat {
+        padding-top: 15px;
+        width: 400px;
+        height: 230px;
+    }
+
+    .car1honda {
+        background-color: #DCDCDC;
+        border-radius: 10px;
+        width: 400px;
+        height: 550px;
+        margin-right: 10px;
+        margin-top: 10px;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #honda {
+        width: 400px;
+        height: 230px;
+    }
+
+    .car1kia {
+        background-color: #DCDCDC;
+        border-radius: 10px;
+        width: 400px;
+        height: 550px;
+        margin-right: 10px;
+        margin-top: 10px;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #kia {
+        width: 400px;
+        height: 230px;
+    }
+}
